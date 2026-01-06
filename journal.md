@@ -4,15 +4,11 @@
 
 ## 📅 Index
 - [Day 1: The Spark](#day-1-the-spark)
+- [Day 2: The Verion 1](#Day-2-The-Verion-1)
 
 ---
 
 ## Day 1: The Spark
-**Date:** [Your Date Here]  
-**Time:** 6:00 AM  
-**Project Hours:** ~5 hours (previous day)  
-**Energy Level:** ⚡ High excitement, 😴 Low sleep  
-**Mood:** Obsessively inspired
 
 ### 🎯 Today's Context
 - Full workday ahead
@@ -52,3 +48,12 @@ That beautiful/horrible state where your brain won't shut off about a problem yo
 3. Research, Reaserch, Reaserch!
 
 *[End of Day 1?]*
+
+## Day 2: The Verion 1 
+After two complete rewrites, I finally maded it work the. My inventory system! TONIGHT
+
+### 🚀 Next Steps
+Video Tour - Record a walkthrough of the system while it's fresh
+But first: sleep. Real, actual sleep. The kind where I don't dream in code.
+
+*[End of V1]*
